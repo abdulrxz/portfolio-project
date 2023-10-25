@@ -13,20 +13,16 @@ const Navbar = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          Lama Dev
         </motion.span>
         <div className="social">
-          <a href="#">
-            <img src="/facebook.png" alt="" />
+          <a href="https://app.rezi.ai/s/D5QQCA8l9IS1oqn5VRne">
+            <img src="/rezi.png" alt="" />
           </a>
-          <a href="#">
-            <img src="/instagram.png" alt="" />
+          <a href="https://www.linkedin.com/in/abdulrehman0219">
+            <img src="/linkedin.png" alt="" />
           </a>
-          <a href="#">
-            <img src="/youtube.png" alt="" />
-          </a>
-          <a href="#">
-            <img src="/dribbble.png" alt="" />
+          <a href="https://github.com/abdulrxz">
+            <img src="/github.png" alt="" />
           </a>
         </div>
       </div>
